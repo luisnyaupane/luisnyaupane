@@ -27,21 +27,6 @@ I am a **Django** Full Stack Developer passionate about building scalable web ap
 
 ---
 
-## 🌐 Socials:
-<p>
-  <a href="https://www.facebook.com/luisneupane">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/luis_neupane">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/luis-nyaupane-08168634a ">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## 💻 Tech Stack:
 
 <p>
@@ -56,8 +41,23 @@ I am a **Django** Full Stack Developer passionate about building scalable web ap
 
 </p>
 
+
 ---
 
+## 🌐 Socials:
+<p>
+  <a href="https://www.facebook.com/luisneupane">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/luis_neupane">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/luis-nyaupane-08168634a ">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
 ## 📊 GitHub Stats:
 
 <!-- <p>
