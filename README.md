@@ -47,13 +47,10 @@ I am a **Django** Full Stack Developer passionate about building scalable web ap
 ---
 ## 📊 GitHub Stats:
 
-<!-- <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=luisnyaupane&show_icons=true&theme=dark"/>
-</p> -->
-
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisnyaupane&theme=dark"/>
 </p>
+
 
 ---
 
