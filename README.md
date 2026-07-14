@@ -45,11 +45,11 @@ I am a **Django** Full Stack Developer passionate about building scalable web ap
 </p>
 
 ---
-## 📊 GitHub Stats:
+<!--## 📊 GitHub Stats:
 
-<p>
+ <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisnyaupane&theme=dark"/>
-</p>
+</p> -->
 
 
 ---
